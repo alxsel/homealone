@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate>
-    <atom:link href="//portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KIO-TAPE BRAND</title>
       <link>//portfolio/kio-tape-2/</link>
